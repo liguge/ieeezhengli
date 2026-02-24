@@ -5,7 +5,7 @@
 | 1    | IEEE Transactions on Pattern Analysis and Machine Intelligence | 18.6     | 35        | 1区TOP     | Kyoung Mu Lee, Seoul National University, Department of ECE, Seoul, South Korea | 发表了关于计算机视觉与图像理解的所有传统领域、所有传统模式分析与识别领域以及部分机器学习领域的文章，特别强调模式分析中的机器学习。 |
 | 2    | **IEEE Transactions on Intelligent Vehicles**                | 14.3     | 17        | 1区TOP     | Edward Tunstel, R&D Robotics Department, Southwest Research Institute, San Antonio, TX, USA | 发表同行评审文章，提供创新的研究理念和应用成果，报告重要的理论发现和应用案例，并提高人们对智能车辆在道路环境中，尤其是自动驾驶汽车领域紧迫研究和应用挑战的认识。 |
 | 3    | IEEE Transactions on Image Processing                        | 13.7     | 22.5      | 1区TOP     | Benoit Macq, UCLouvain-Belgium, Louvain-la-Neuve, Belgium    | 涵盖了图像、视频和多维信号在各种应用中形成、捕获、处理、通信、分析和显示的新理论、算法和架构。 |
-| 4    | IEEE Transactions on Evolutionary Computation                | 12       | 23.5      | 1区TOP     | Carlos A. Coello Coello, Professor, IEEE Fellow, CINVESTAV-IPN, Department of Computer Science, Mexico City, Mexico | 发表了进化计算及相关领域的档案级原创论文，包括自然启发的算法、基于种群的方法以及选择与变异是整合的优化，以及结合这些范式的混合系统。 |
+| 4    | IEEE Transactions on Evolutionary Computation                | 12.0       | 23.5      | 1区TOP     | Carlos A. Coello Coello, Professor, IEEE Fellow, CINVESTAV-IPN, Department of Computer Science, Mexico City, Mexico | 发表了进化计算及相关领域的档案级原创论文，包括自然启发的算法、基于种群的方法以及选择与变异是整合的优化，以及结合这些范式的混合系统。 |
 | 5    | IEEE Transactions on Circuits and Systems for Video Technology | 11.1     | 15.4      | 1区- TOP   | Shan Liu, Tencent, Shenzhen, China                           | 涵盖了所有视频技术的电路和系统方面，包括图像/视频采集、表示、展示和显示相关的通用、理论及应用论文。 |
 | 6    | IEEE Transactions on Fuzzy Systems                           | 11.1     | 20        | 1区- TOP   | Dongrui Wu, Huazhong University of Science and Technology, Wuhan, China | 发表了关于模糊系统的理论、设计和应用的高质量技术论文，重点放在工程系统和科学应用上。 |
 | 7    | **IEEE Transactions on Consumer Electronics**                | 10.9     | 5.5       | 2区        | Alireza Jolfaei, Flinders University, Adelaide, Australia    | 主要关注点是面向消费者的大众市场电子产品、系统、软件和服务的理论、设计、建造、制造或最终用途的工程与研究方面。 |
@@ -128,4 +128,5 @@
 ------
 
 ​        根据微信文章[全网首发！终于有人把 115 本 IEEE Transactions 全部整理齐了：IF、中科院分区、自引率、发文量一站式起底！投稿必看，建议永久收藏！
+
 ](https://mp.weixin.qq.com/s/Kn7nl7oYnQjC7DzLDBkXJg) 整理，部分内容存在信息错误，做了修正，删除了停刊的期刊，标注了可能发表PHM领域相关文章的期刊。
