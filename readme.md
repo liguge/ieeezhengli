@@ -127,4 +127,5 @@
 
 ------
 
-​        根据微信文章https://mp.weixin.qq.com/s/Kn7nl7oYnQjC7DzLDBkXJg整理，部分内容存在信息错误，做了修正，删除了停刊的期刊，标注了可能发表PHM领域相关文章的期刊。
+​        根据微信文章[全网首发！终于有人把 115 本 IEEE Transactions 全部整理齐了：IF、中科院分区、自引率、发文量一站式起底！投稿必看，建议永久收藏！
+](https://mp.weixin.qq.com/s/Kn7nl7oYnQjC7DzLDBkXJg) 整理，部分内容存在信息错误，做了修正，删除了停刊的期刊，标注了可能发表PHM领域相关文章的期刊。
