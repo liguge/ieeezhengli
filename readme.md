@@ -3,7 +3,7 @@
 | 序号 | 期刊名称                                                     | 影响因子 | CiteScore | 中科院分区 | 主编 (Editor-in-Chief)                                       | 简介                                                         |
 | ---- | ------------------------------------------------------------ | -------- | --------- | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1    | IEEE Transactions on Pattern Analysis and Machine Intelligence | 18.6     | 35        | 1区TOP     | Kyoung Mu Lee, Seoul National University, Department of ECE, Seoul, South Korea | 发表了关于计算机视觉与图像理解的所有传统领域、所有传统模式分析与识别领域以及部分机器学习领域的文章，特别强调模式分析中的机器学习。 |
-| 2    | **IEEE Transactions on Intelligent Vehicles**                | 14.3     | 17        | 1区TOP     | Edward Tunstel, R&D Robotics Department, Southwest Research Institute, San Antonio, TX, USA | 发表同行评审文章，提供创新的研究理念和应用成果，报告重要的理论发现和应用案例，并提高人们对智能车辆在道路环境中，尤其是自动驾驶汽车领域紧迫研究和应用挑战的认识。 |
+| 2    | **IEEE Transactions on Intelligent Vehicles**                | 14.3     | 17.0        | 1区TOP     | Edward Tunstel, R&D Robotics Department, Southwest Research Institute, San Antonio, TX, USA | 发表同行评审文章，提供创新的研究理念和应用成果，报告重要的理论发现和应用案例，并提高人们对智能车辆在道路环境中，尤其是自动驾驶汽车领域紧迫研究和应用挑战的认识。 |
 | 3    | IEEE Transactions on Image Processing                        | 13.7     | 22.5      | 1区TOP     | Benoit Macq, UCLouvain-Belgium, Louvain-la-Neuve, Belgium    | 涵盖了图像、视频和多维信号在各种应用中形成、捕获、处理、通信、分析和显示的新理论、算法和架构。 |
 | 4    | IEEE Transactions on Evolutionary Computation                | 12.0       | 23.5      | 1区TOP     | Carlos A. Coello Coello, Professor, IEEE Fellow, CINVESTAV-IPN, Department of Computer Science, Mexico City, Mexico | 发表了进化计算及相关领域的档案级原创论文，包括自然启发的算法、基于种群的方法以及选择与变异是整合的优化，以及结合这些范式的混合系统。 |
 | 5    | IEEE Transactions on Circuits and Systems for Video Technology | 11.1     | 15.4      | 1区- TOP   | Shan Liu, Tencent, Shenzhen, China                           | 涵盖了所有视频技术的电路和系统方面，包括图像/视频采集、表示、展示和显示相关的通用、理论及应用论文。 |
@@ -23,7 +23,7 @@
 | 19   | **IEEE Transactions on Neural Networks and Learning Systems** | 8.9      | 24.7      | 1区TOP     | Yongduan Song, Chongqing University, School of Automation, Chongqing, China | 发表涉及神经网络及相关学习系统的理论、设计和应用的技术文章。 |
 | 20   | IEEE Transactions on Geoscience and Remote Sensing           | 8.6      | 13.6      | 1区TOP     | Xiuping Jia, The University of New South Wales at Canberra, Canberra, Australia | 专注于科学与工程的理论、概念和技术，应用于感测陆地、海洋、大气和空间，以及这些信息的处理、解读和传播。 |
 | 21   | **IEEE Transactions on Intelligent Transportation System**   | 8.4      | 17.8      | 2区        | Simona Sacone, Prof., University of Genova, Genova, Italy    | 涵盖了现代交通系统所有科学和技术方面的基础和应用研究，包括智能交通系统的传感、通信、控制、规划、设计和实施。 |
-| 22   | IEEE Transactions on Communications                          | 8.3      | 17        | 2区- TOP   | George K. Karagiannidis, Aristotle University of Thessaloniki, Department of Electrical and Computer Engineering, Thessaloniki, Greece | 发表关于所有电信技术通过电磁传播取得的先进进展的高质量论文。 |
+| 22   | IEEE Transactions on Communications                          | 8.3      | 17.0        | 2区- TOP   | George K. Karagiannidis, Aristotle University of Thessaloniki, Department of Electrical and Computer Engineering, Thessaloniki, Greece | 发表关于所有电信技术通过电磁传播取得的先进进展的高质量论文。 |
 | 23   | **IEEE Transactions on Transportation Electrification**      | 8.3      | 12.5      | 1区TOP     | Alireza Khaligh, University of Maryland, College Park, MD, USA | 专注于与电力和能量转换、推进及驱动与驱动相关的组件、子系统、系统、标准及网格接口技术，涵盖所有类型的电气化车辆。 |
 | 24   | IEEE Transactions on Information Forensics and Security      | 8.0      | 12.5      | 1区TOP     | Luisa Verdoliva, University Federico II of Naples, Naples, Italy | 涵盖了与信息取证、信息安全、生物识别、监控及系统应用相关的科学、技术和应用。 |
 | 25   | IEEE Transactions on Network Science and Engineering         | 7.9      | 13.1      | 2区        | Dusit Niyato, Nanyang Technological University, Singapore, Singapore | 致力于及时发表经过同行评审的技术文章，探讨网络科学的理论与应用以及构成网络的系统中各元素之间的互联。 |
@@ -32,7 +32,7 @@
 | 28   | IEEE Transactions on Power Systems                           | 7.2      | 15.9      | 1区TOP     | lan A. Hiskens, University of Michigan, Ann Arbor, USA       | 涵盖了一般工业、商业、公共和家庭用电的发电、输电和配电系统的教育、分析、运行、规划及经济学。 |
 | 29   | IEEE Transactions on Industrial Electronics                  | 7.2      | 16.8      | 1区TOP     | Yang Shi, University of Victoria, Victoria, BC, Canada       | 发表了经过实验验证的电子学、控制、仪器和计算应用于工业系统和工艺增强的论文。 |
 | 30   | **IEEE Transactions on Vehicular Technology**                | 7.1      | 12.1      | 2区        | Lin Cai, University of Victoria, Victoria, BC, Canada        | 致力于发表关于车辆和车辆系统电气电子技术理论与实践的同行评审原创研究成果。 |
-| 31   | IEEE Transactions on Automatic Control                       | 7.0      | 12        | 2区- TOP   | Miroslav Krstic, University of California, San Diego, La Jolla, California, USA | 发表了关于自动控制理论基础的论文，包括完整论文和技术笔记。   |
+| 31   | IEEE Transactions on Automatic Control                       | 7.0      | 12 .0       | 2区- TOP   | Miroslav Krstic, University of California, San Diego, La Jolla, California, USA | 发表了关于自动控制理论基础的论文，包括完整论文和技术笔记。   |
 | 32   | IEEE Transactions on Cognitive Communications and Networking | 7.0      | 14.9      | 1区- TOP   | Shiwen Mao, Auburn University, Department of ECE, Auburn, USA | 致力于及时发表高质量的论文，推动认知通信与网络研究的前沿。   |
 | 33   | IEEE Journal of Biomedical and Health Informatics            | 6.8      | 13.5      | 2区TOP     | Peter Elkin, Jacobs School of Medicine and Biomedical Sciences, Buffalo, NY, USA | 发表原创论文，描述生物医学与健康信息学领域的最新进展，其中信息与通信技术与健康、医疗、生命科学及生物医学交汇。 |
 | 34   | **IEEE Transactions on Power Electronics**                   | 6.5      | 15.3      | 1区TOP     | Xiongei Wang, Tsinghua University, Beijing, China            | 涵盖了电力电子领域的所有问题，包括转换、控制、应用、概念问题以及利用半导体和开关器件实现电力的系统集成。 |
@@ -46,7 +46,7 @@
 | 42   | IEEE Transactions on Services Computing                      | 5.8      | 10.8      | 2区TOP     | Surya Nepal, CSIRO, Australia                                | 范围涵盖服务创新研发科学技术的所有计算和软件方面，强调服务计算、面向服务架构、网络服务、业务流程集成、解决方案性能管理中的核心算法、数学、统计和计算方法。 |
 | 43   | IEEE Transactions on Antennas and Propagation                | 5.8      | 11.4      | 1区- TOP   | Konstantina S. Nikita, National Technical University of Athens, Athens Greece | 发表关于电磁学、天线和波传播等一般主题的原创性贡献的完整论文和较短的通信。 |
 | 44   | **IEEE Transactions on Reliability**                         | 5.7      | 11.6      | 2区        | Zhaojun Steven Li, Western New England University, Springfield, MA, USA | 涵盖可靠性及相关学科，包括但不限于可维护性、失效物理学、寿命测试、预测学、可靠性设计与制造、系统中的系统可靠性、网络可用性等。 |
-| 45   | IEEE Transactions on Aerospace and Electronic System         | 5.7      | 9         | 2区        | Gokhan Inalhan, The Sloane Institute, London, UK             | 专注于为太空、空中、海洋或地面环境组织、设计、开发、集成和操作复杂系统，包括导航、航空电子设备、航天器、航空航天动力、雷达、声纳、遥测等。 |
+| 45   | IEEE Transactions on Aerospace and Electronic System         | 5.7      | 9.0         | 2区        | Gokhan Inalhan, The Sloane Institute, London, UK             | 专注于为太空、空中、海洋或地面环境组织、设计、开发、集成和操作复杂系统，包括导航、航空电子设备、航天器、航空航天动力、雷达、声纳、遥测等。 |
 | 46   | IEEE Transactions on Big Data                                | 5.7      | 15.3      | 2区        | Ling Liu, Georgia Institute of Technology, Atlanta, GA, USA  | 以大数据为主要关注点，发表同行评审的文章，提供跨学科的创新研究理念和大数据应用成果。 |
 | 47   | IEEE Transactions on Software Engineering                    | 5.6      | 12.9      | 1区TOP     | Mauro Pezze, USI Universita della Svizzera Italiana Lugano-Viganello, Switzerland | 关注明确的理论结果和实证研究，这些研究对软件的构建、分析或管理有潜在影响。 |
 | 48   | IEEE Transactions on Emerging Topics in Computing            | 5.4      | 14.4      | 2区        | Patrick Schaumont, Worcester Polytechnic Institute, Worcester, Massachusetts, USA | 发表关于计算机科学、计算技术及计算应用新兴方面的论文，这些领域目前未被其他IEEE计算机学会汇刊涵盖。 |
@@ -87,7 +87,7 @@
 | 83   | IEEE Transactions on Molecular, Biological, and Multi-Scale Communications | 2.3      | 4.2       | 3区        | Sasitharan Balasubramaniam, Ph.D., Associate Professor, University of Nebraska-Lincoln, School of Computing, College of Engineering, Lincoln, USA | 致力于利用超越经典电磁学物理的通信系统的原理、设计和分析，包括分子、量子及其他物理、化学和生物技术。 |
 | 84   | IEEE Transactions on Device and Materials Reliability        | 2.3      | 4.9       | 3区        | Isodiana Crupi                                               | 包括器件、材料、工艺、接口、集成微系统、晶体管、技术、集成电路、薄膜晶体管应用的可靠性。 |
 | 85   | IEEE Transactions on Applied Superconductivity               | 1.8      | 3.4       | 3区        | Min Zhang, University of Strathclyde, Glasgow, U.K.          | 包含关于超导及其他相关技术应用的文章，包括电子应用和大规模应用。 |
-| 86   | IEEE Transactions on Electron Devices                        | 3.2      | 6         | 3区        | Albert Wang, University of California, Riverside, Riverside, CA, USA | 发表了关于电子和离子集成电路器件及其互连的理论、建模、设计、性能与可靠性的原创且重要的贡献。 |
+| 86   | IEEE Transactions on Electron Devices                        | 3.2      | 6.0         | 3区        | Albert Wang, University of California, Riverside, Riverside, CA, USA | 发表了关于电子和离子集成电路器件及其互连的理论、建模、设计、性能与可靠性的原创且重要的贡献。 |
 | 87   | IEEE Transactions on Dielectrics and Electrical Insulation   | 3.1      | 6.3       | 2区        | Michael Wübbenhorst, KU Leuven, Department of Physics and Astronomy, Leuven, Belgium | 发表关于介电现象和测量的文章以分析这些现象，以及真空、气体、液体和固体介电材料及系统电气绝缘组件的开发与表征。 |
 | 88   | IEEE Transactions on Nanotechnology                          | 2.5      | 4.4       | 4区        | Georgios Sirakoulis, Democritus University of Thrace, Xanthi, Greece | 发表纳米尺度工程领域的进展，涵盖纳米尺度现象的物理基础和工程应用。 |
 | 89   | IEEE Transactions on Education                               | 2.0      | 6.7       | 4区        | Ann Sobel, Miami University, Oxford, OH, USA                 | 发表电气与电子工程、计算机工程、计算机科学及IEEE关注的其他领域教育的重要且原创性学术贡献。 |
@@ -96,7 +96,7 @@
 | 92   | IEEE Transactions on Magnetics                               | 1.9      | 4.8       | 3区        | Nicoleta Lupu, National Institute of R&D for Technical Physics, lasi | 专注于磁学、磁性材料、应用磁学、磁性器件及磁性数据存储的基础物理与工程。 |
 | 93   | IEEE Transactions on Professional Communication              | 1.8      | 3.5       | 2区        | George F. Hayhoe, Mercer University School of Engineering, Fletcher, NC, USA | 专注于专业传播的应用研究，包括技术和商业传播。               |
 | 94   | IEEE Transactions on Plasma Science                          | 1.5      | 2.8       | 4区        | Edl Schamiloglu, Ph.D, Distinguished Professor of Electrical and Computer Engineering, University of New Mexico, Albuquerque, NM, USA | 涵盖了等离子体科学理论及其应用的所有方面，包括磁流体力学、热电子学和等离子二极管等。 |
-| 95   | IEEE Latin America Transactions                              | 1.3      | 4         | 4区        | Daniel Ulises Campos-Delgado, Universidad Autonoma de San Luis Potosi, San Luis Potosi, Mexico | 每月编辑的期刊，专注于发布以英语、西班牙语或葡萄牙语撰写的高质量研究论文和综述文章，主要涵盖计算、（电力）能源与电子领域。 |
+| 95   | IEEE Latin America Transactions                              | 1.3      | 4.0         | 4区        | Daniel Ulises Campos-Delgado, Universidad Autonoma de San Luis Potosi, San Luis Potosi, Mexico | 每月编辑的期刊，专注于发布以英语、西班牙语或葡萄牙语撰写的高质量研究论文和综述文章，主要涵盖计算、（电力）能源与电子领域。 |
 | 96   | IEEE Transactions on AgriFood Electronics                    | None     | None      | None       | Danilo Demarchi, Politecnico di Torino, Turin, Italy         | 致力于前沿研究，涵盖电路与系统，整合所需传感器、执行器和接口，应用于农食价值链。 |
 | 97   | **IEEE Transactions on Artificial Intelligence**             | None     | 6.4       | None       | Jun Wang, City University of Hong Kong, Hong Kong, Kowloon   | 多学科期刊，发表关于人工智能理论和方法论的论文，人工智能的应用也被考虑在内。 |
 | 98   | IEEE Transactions on Audio, Speech and Language Processing   | None     | None      | None       | Mark Hasegawa-Johnson, University of Illinois, Urbana, IL, USA | 致力于创新的音频、语音与语言信号处理理论和方法及其应用。     |
@@ -128,6 +128,4 @@
 ------
 
 ​        根据微信文章[全网首发！终于有人把 115 本 IEEE Transactions 全部整理齐了：IF、中科院分区、自引率、发文量一站式起底！投稿必看，建议永久收藏！
-
 ](https://mp.weixin.qq.com/s/Kn7nl7oYnQjC7DzLDBkXJg) 整理，部分内容存在信息错误，做了修正，删除了停刊的期刊，标注了可能发表PHM领域相关文章的期刊。
-
