@@ -13,7 +13,7 @@
 | 9    | **IEEE Transactions on Cybernetics**                         | 10.5     | 25.7      | 1区- TOP   | Peng Shi, The University of Adelaide, Adelaide, Australia    | 涵盖了控制论领域的计算方法，包括计算智能、计算机视觉、神经网络、遗传算法、机器学习、模糊系统、认知系统、决策和机器人学等领域。 |
 | 10   | IEEE Transactions on Robotics                                | 10.5     | 19.3      | 1区TOP     | Wolfram Burgard, University of Technology Nuremberg, Nuremberg, Germany | 发表关于机器人各个方面的基础论文，涵盖计算机科学、控制系统、电气工程、数学、机械工程等领域的跨学科方法。 |
 | 11   | IEEE Transactions on Knowledge and Data Engineering          | 10.4     | 15.7      | 1区TOP     | Lei Chen, Hong Kong University of Science and Technology, Department of Computer Science and Engineering, Hong Kong, China | 涵盖计算机科学、人工智能、电气工程、计算机工程及其他相关领域的知识与数据工程方面，提供国际化且跨学科的论坛。 |
-| 12   | IEEE Transactions on Sustainable Energy                      | 10       | 21.1      | 1区TOP     | Hua Geng, Tsinghua University, Beijing, China                | 旨在传播可持续能源系统研究成果的期刊，这些系统可整合进电力输电和/或配电网。 |
+| 12   | IEEE Transactions on Sustainable Energy                      | 10.0       | 21.1      | 1区TOP     | Hua Geng, Tsinghua University, Beijing, China                | 旨在传播可持续能源系统研究成果的期刊，这些系统可整合进电力输电和/或配电网。 |
 | 13   | **IEEE Transactions on Industrial Informatics**              | 9.9      | 22.5      | 1区TOP     | Gerhard P. Hancke, University of Pretoria, Pretoria, South Africa | 多学科期刊，发表技术论文，弥合工业环境中信息学理论与应用实践之间的鸿沟，涵盖智能、分布式、敏捷工业自动化与控制系统中信息的应用。 |
 | 14   | IEEE Transactions on Smart Grid                              | 9.8      | 21.1      | 1区TOP     | Mahmoud Fotuhi-Firuzabad, Sharif University of Technology, Tehran, Iran | 跨学科期刊，旨在传播智能电网的研究与开发成果，涵盖能源网络、需求响应、先进计量基础设施、网络物理系统等多个领域。 |
 | 15   | IEEE Transactions on Affective Computing                     | 9.8      | 18.5      | 1区- TOP   | Gokhan Inalhan, The Sloane Institute London, UK              | 跨学科和国际性的档案期刊，旨在传播关于设计能够识别、解释和模拟人类情感及相关情感现象的系统的研究成果。 |
@@ -130,3 +130,4 @@
 ​        根据微信文章[全网首发！终于有人把 115 本 IEEE Transactions 全部整理齐了：IF、中科院分区、自引率、发文量一站式起底！投稿必看，建议永久收藏！
 
 ](https://mp.weixin.qq.com/s/Kn7nl7oYnQjC7DzLDBkXJg) 整理，部分内容存在信息错误，做了修正，删除了停刊的期刊，标注了可能发表PHM领域相关文章的期刊。
+
